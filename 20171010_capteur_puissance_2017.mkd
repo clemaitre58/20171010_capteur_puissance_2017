@@ -1,0 +1,74 @@
+Capteur de puissance 2017-2018
+
+Cette article regroupe les liens vers les différents capteurs de puissance disponible sur le marché pour la saison 2016-2017.
+
+Je ne détaillerais par les spécifications techniques dans cet article, il viendront par la suite.
+
+
+# Powertap
+
+Le fabricant américain est le seul à proposer une gamme de capteurs s'adaptant sur différents éléments du vélo.
+
+
+- [Pédales P1](https://www.powertap.com/page/pedals)
+- [Plateaux C1](https://www.powertap.com/page/chainrings)
+- [Moyeux powertap](https://www.powertap.com/page/hubs-wheelsets)
+
+# Shimano
+
+A priori shimano devrait commencer la commercialisation de son capteur de puissance dès cet automne malgré plusieurs années d'incertitude sur la sortie réel du produit.
+Le produit est déjà disponible (10/10/2017) à l'achat sur les sites de discounters allemands.
+Selon moi pas réellement d'intérêt majeurs à ce produit tant en terme de prix que de performances.
+À réserver aux férus de la marques qui veulent absolument le groupe complet shimano, pédaliers compris!
+
+
+# Pionner
+
+Partenaires depuis ses débuts avec le team Loto-Jumbo, Pionner propose maintenant plusieurs modèles afin de parcourir tout le spectre de prix.
+À noter, qu'ils ont des noms de code vraiment barbares :
+
+- [SGY-PM910HR](http://pioneer-cyclesports.com/fr/products/sensor/sgy-pm910hl_sgy-pm910hr.html#910hr)
+- [SGY-PM910HL](http://pioneer-cyclesports.com/fr/products/sensor/sgy-pm910hl_sgy-pm910hr.html)
+- [SGY-PM910H2](http://pioneer-cyclesports.com/fr/products/sensor/sgy-pm910h2.html)
+
+Ces capteurs semblent maintenant fiables après des premières versions un peu juste en terme de robustesse.
+
+# Rotor
+
+Fabricant historique des plateaux Q-Rings, rotor a participé (avec pomer2max) à faire baisser le prix des capteurs de puissances.
+Rotor propose actuellement 2 technologies qui sont disponibles sur plusieurs versions de leur pédalier :
+
+- [le 2inpower](http://alternativsport.com/118-2inpower) qui permet de mesurer la puisssance jambes gauche et droites
+- [le inpower](http://alternativsport.com/122-inpower-flow) qui double la puissance mesurée du côté gauche.
+
+
+**NB : la distributeur France est particulièrement performant et arrangeant!!!**
+
+# power2max
+
+- [Type S](https://www.power2max.de/europe/fr/Produkt/capteurs-de-puissance/power2max-type-s-rotor-3d24-route/) disponible surplusieurs manivelles du marché
+- [N-Geco](https://www.power2max.de/europe/fr/Produkt/favorites-fr/power2max-ngeco-rotor-3d24-leistungsmesser/] capteur seul à installer sur votre pédalier s'il est dans la liste des capteurs disponibles.
+
+# srm
+
+Le primo-accédant du segment marché. 
+Un seul capteur (j'exclus les version scientifique) en soit mais vendu intégré à plusieurs type de pédaliers (les plus courant du marché) par exemple le [3D+](http://www.srm.de/products/srm-powermeter/3dplus/) de chez rotor.
+Très cher et difficile, pour un usage cyclosportif, de dire que cette écart de prix est justifié.
+
+
+# Garmin
+
+Garmin propose la seconde version de sa pédale [vector](https://buy.garmin.com/fr-FR/FR/p/93569). La précision du produit n'est pas sa meilleur qualité ainsi que l'installation.
+En effet, si vous voulez obtenir une répétabilité et une justesse importante vous devez serrez les pédales à un couples précis. Pour info, nos clés dynamométriques étant très peu précises l'installation est foireuse dans les 2/3 des cas.
+
+**NB : il semblerait qu'une V3 soit commercialisée très rapidement. L'installation de celle-ci ne serait pas soumise à un couple serrage particulier**
+
+
+# stages
+
+Bon je vous mets le liens vers [ce capteur](https://stagescycling.com/eneu/products/) pour être exhaustif mais il est reconnu pour être de très mauvaise qualité tant au niveau de la mesure que de la robustesse.
+
+
+
+Voilà, vous avez sur cette page tous les modèles qui se trouveront sur le marché en 2017-2018. Alors prêt à l'acheter capteur de puissance.
+
